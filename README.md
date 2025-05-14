@@ -24,14 +24,14 @@ No usernames. No logs (on your side). No rules.
 
 Just open a terminal and run:
 
-```bash
+```
 curl -sSL https://raw.githubusercontent.com/heroinsh/chroom_client/main/install_chatroom.sh | bash
+```
 Then type:
 
-bash
-Copy
-Edit
+```
 chatroom
+```
 You're in.
 
 🪟 Windows
@@ -41,10 +41,9 @@ Make sure you have Python 3 installed.
 
 Run it via terminal:
 
-bash
-Copy
-Edit
+```
 python client.py
+```
 💡 Notes
 A password is required to enter. If you don’t have it, you don’t belong.
 
@@ -55,12 +54,11 @@ Use /help inside for available commands.
 Type /exit to leave quietly.
 
 📡 Server Info
-bash
-Copy
-Edit
+```
 IP: 45.38.139.91  
 Port: 5555  
 Protocol: SSL
+```
 ❓ Need Access or Custom Setup?
 DM on Telegram: @H0lwin_P
 
