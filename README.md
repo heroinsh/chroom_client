@@ -8,6 +8,12 @@ No usernames. No logs (on your side). No rules.
 
 ---
 
+##Select Language / انتخاب زبان:
+[🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md)
+
+
+
+---
 ## ⚙️ Features
 
 - 💬 Terminal-based, distraction-free interface  
